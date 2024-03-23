@@ -1,2 +1,6 @@
 This is a file created by developer2
+<<<<<<< HEAD
 this is a change to be done
+=======
+This is modification done by developer1 in file2
+>>>>>>> 1e6a7aa47c15a27f039cb668c0d79c902effc31c
